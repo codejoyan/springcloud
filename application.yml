@@ -1,0 +1,6 @@
+server:
+  port: 0
+  
+application:
+  welcome:
+    message: "Hello Joyan! Config server is configured"
